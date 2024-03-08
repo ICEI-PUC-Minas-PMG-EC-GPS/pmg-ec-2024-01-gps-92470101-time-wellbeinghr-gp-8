@@ -10,10 +10,9 @@ WellBeingHR
 ## Alunos integrantes da equipe
 
 * [Edgard de Paiva Melo Filho](https://github.com/Kodvik)
-* [Nome completo do aluno 2 (com link para Github)](https://github.com/aluno2)
-* [Nome completo do aluno 3 (com link para Github)](https://github.com/aluno3)
+* [Rafael Gonçalves Leal](https://github.com/leal03)
+* [Pedro Souza Lucas](https://github.com/Pedrosl16)
 * [Nome completo do aluno 4 (com link para Github)](https://github.com/aluno4)
-* [Nome completo do aluno 5 (com link para Github)](https://github.com/aluno5)
 
 ## Professor responsável
 
