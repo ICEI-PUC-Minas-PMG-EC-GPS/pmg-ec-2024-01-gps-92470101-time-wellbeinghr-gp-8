@@ -3,13 +3,13 @@
 
 # Nome do projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
+WellBeingHR
 
-> Descreva, em um ou dois parágrafos, um resumo do projeto (principais objetivos e justificativa).
+> Projeto de aplicativo a ser desenvolvido para o cliente 'Crossover for Work', que tem como objetivo garantir uma boa qualidade do ambiente de trabalho, prezando pela saúde mental estável dos funcionários.
 
 ## Alunos integrantes da equipe
 
-* [Nome completo do aluno 1 (com link para Github)](https://github.com/aluno1)
+* [Edgard de Paiva Melo Filho](https://github.com/Kodvik)
 * [Nome completo do aluno 2 (com link para Github)](https://github.com/aluno2)
 * [Nome completo do aluno 3 (com link para Github)](https://github.com/aluno3)
 * [Nome completo do aluno 4 (com link para Github)](https://github.com/aluno4)
