@@ -62,7 +62,7 @@
 ![Insight - Mês Fevereiro](images/insight_marco.png)
 
 **Insight - Mês Abril**
-![Insight - Mês Março](images/insight_abril.png)
+![Insight - Mês Março](images/insight_abril.jpg)
 
 **Insight - Mês Maio**
 > Adicione aqui insights do mês de Maio.
