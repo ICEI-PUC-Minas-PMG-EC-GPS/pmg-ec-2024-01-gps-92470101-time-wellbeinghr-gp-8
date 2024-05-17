@@ -12,7 +12,7 @@ WellBeingHR
 * [Edgard de Paiva Melo Filho](https://github.com/Kodvik)
 * [Rafael Gonçalves Leal](https://github.com/leal03)
 * [Pedro Souza Lucas](https://github.com/Pedrosl16)
-* [Nome completo do aluno 4 (com link para Github)](https://github.com/aluno4)
+* [Felipe Viana Carvalhais](https://github.com/FelipeVcc21)
 
 ## Professor responsável
 
