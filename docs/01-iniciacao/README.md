@@ -33,24 +33,20 @@
 
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Desenvolver uma plataforma de gestão de recursos humanos que ofereça soluções integradas para empresas de médio e grande porte. Esta plataforma visa otimizar e centralizar processos relacionados à gestão de pessoas, desde o recrutamento e seleção até o desenvolvimento e avaliação de desempenho dos colaboradores. Além disso, nossa plataforma contará com uma gestão automatizada do moral e do bem-estar da equipe de colaboradores. Para alcançar esse objetivo, a plataforma incluirá funcionalidades como um sistema de recrutamento e seleção com análise de currículos e agendamento de entrevistas, um módulo de gestão de competências para identificação e desenvolvimento de habilidades dos colaboradores, um sistema de avaliação de desempenho com feedback contínuo, além de ferramentas para gerenciamento de benefícios, controle de ponto e folha de pagamento. Integrações com sistemas de ERP e CRM também serão consideradas para garantir uma gestão eficiente e integrada de todos os processos organizacionais relacionados aos recursos humanos. Já na parte de gestão do bem-estar e moral da equipe, o sistema contará com uma Inteligência Artificial integrada, que irá, por meio de métricas extraídas pelo time de dados e questionários enviados periodicamente aos colaboradores, mensurar o bem-estar emocional da equipe.
 
-> Problem corresponde a uma lacuna a ser preenchida, uma necessidade a ser atendida, ou uma dificuldade a ser superada.
-> A definição precisa do problema ajuda a orientar as atividades do projeto, direcionando os esforços em sua solução.
-> Seu entendimento facilita a comunicação eficaz entre os membros da equipe e as partes interessadas, estabelecendo uma base comum para a colaboração.
-> Nesta seção, deve ser descrito apenas o problema e seu contexto.
-> Soluções para o problema devem ser descritas na seção correspondente.
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Aqui você deve descrever os objetivos do trabalho.
-> Apresente um Objetivo Geral, sintetizado em uma única frase.
-> Apresente também 3 ou 4 objetivos específicos (sub-produtos do sistema ou objetivos extras que podem ser alcançados pela construção do software).
-> 
-> **Link Útil**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Desenvolvimento de uma plataforma de gestão de recursos humanos.
+Funcionalidades desde o recrutamento e seleção até o desenvolvimento e avaliação de desempenho dos colaboradores.
+Inclusão de um sistema de recrutamento e seleção com análise de currículos e agendamento de entrevistas.
+Implementação de um módulo de gestão de competências para identificação e desenvolvimento de habilidades dos colaboradores.
+Integração de um sistema de avaliação de desempenho com feedback contínuo.
+Ferramentas para gerenciamento de benefícios, controle de ponto e folha de pagamento.
+Consideração de integrações com sistemas de ERP e CRM para gestão eficiente e integrada de processos organizacionais.
+Implementação de uma Inteligência Artificial para mensurar o bem-estar emocional da equipe, utilizando métricas extraídas pelo time de dados e questionários periódicos enviados aos colaboradores.
+Centralização e otimização dos processos relacionados à gestão de pessoas.
 
  
 # Especificações do Projeto
@@ -124,7 +120,7 @@ A tabela a seguir apresenta os requisitos funcionais do projeto.
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|-------|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
+|RF-001| Permitir que o usuário cadastre tarefas | ALTA  | 
 |RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
 
 ### Requisitos Não Funcionais
@@ -147,40 +143,33 @@ A tabela a seguir apresenta as restrições do projeto.
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|-------|
-|RE-001| Permitir que o usuário cadastre tarefas | ALTA | 
+|RE-001| Permitir que o usuário cadastre tarefas | ALTA  | 
 |RE-002| Emitir um relatório de tarefas no mês   | MÉDIA |
 
 # Partes Interessadas
+Nome	           | Papel no projeto                             |
+Edgard De Paiva	 | Gerente do Projeto	                          |
+Rafael Leal	     | Analista de Processos	                      |
+Felipe Viana	   | Analista de RH	                              |
+Pedro Souza	     | Data Base Administrator                      |
+Julia Guerra	   | Diretor geral de Recursos Humanos            |
+Thiago Paz	     | CEO	Thiago Paz                              |
+Luiz Silva	     | Representante do sindicato dos trabalhadores |
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
-> Relacione as partes interessadas no seu projeto. 
-> Você deve descrever as partes interessadas e indicar qual o nível de influência em relação ao projeto.
-> Indique as principais pessoas (clientes, fornecedores, etc), indicando possíveis expectativas, nível de influência e possível importância para o sucesso do projeto.
 
 # Estimativa de Custo e Prazo
 
 ## Estimativa de Custo
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Item de custo	                            | Qtd. horas |	 Valor/hora	 |   Valor total  |
+Recursos Humanos (5 pessoas)	            |    800	   |    R$175,00	 |  R$140.000,00  |
+Hardware (2 pessoas)                      |	   80	     |    R$60 ,00	 |   R$4.800,00   |
+Rede e serviços de hospedagem (2 pessoas) |    120	   |     R$60,00	 |   R$7.200,00   |
+Software de terceiros (2 pessoas)         |    160	   |    R$70,00	   |  R$11.200,00   |
+Serviços e treinamento (3 pessoas)        |	   80	     |    R$90,00	   |  R$7.200,00    |
+Total Geral                               |    1240	   |   R$455,00	   |  R$170.400,00  |
 
-> A avaliação da viabilidade econômica busca determinar a sustentabilidade financeira e o retorno sobre o investimento do empreendimento. 
-> Este processo envolve a análise dos custos associados ao projeto, incluindo investimentos iniciais, despesas operacionais e potenciais custos de manutenção. 
-> Simultaneamente, são examinados os benefícios esperados, como receitas, economias de custos e ganhos tangíveis e intangíveis. 
-> A elaboração de projeções financeiras realistas e a aplicação de métricas como o Valor Presente Líquido (VPL) e a Taxa Interna de Retorno (TIR) contribuem para uma avaliação abrangente da viabilidade econômica do projeto. 
-> Este processo permite que os gestores de projeto e as partes interessadas tomem decisões informadas sobre a continuidade, ajustes ou mesmo a interrupção do projeto, garantindo uma alocação eficiente de recursos e maximizando os benefícios econômicos esperados.
-
-......  ATUALIZE OS ITENS DE CUSTO DO SISTEMA. ADICIONE NOVOS OU SUBDIVIDA ITENS, CASO NECESSÁRIO ......
-
-| Item de Custo           | Descrição | Qtd. horas | Valor / hora | Valor total |
-|-------------------------|-----------|------------|--------------|-------------|
-| Recursos Humanos        |           |            |              |             |
-| Hardware                |           |            |              |             |
-| Serviços de Rede        |           |            |              |             |
-| Hospedagem e Nuvem      |           |            |              |             |
-| Software de terceiros   |           |            |              |             |
-| Serviços e treinamento  |           |            |              |             |
-| **Total Geral**         |           |            |              |             |
 
 
 ## Estimativa de Prazo
@@ -246,21 +235,12 @@ A tabela a seguir apresenta as restrições do projeto.
 
 ## Declaração de Escopo
 
-> Você deve preencher o seguinte documento:
 - [Declaração de Escopo](artefatos/declaracao-escopo.docx)
 
 ## Registro de Partes Interessadas
 
-> Você deve preencher o seguinte documento:
 - [Registro de Partes Interessadas](artefatos/registro-partes-interessadas.xlsx)
 
 ## Termo de Abertura do Projeto (TAP)
 
-> O Termo de Abertura do Projeto (TAP) representa o ponto de partida oficial para o empreendimento. 
-> Ele sintetiza de maneira clara e concisa os objetivos, escopo, partes interessadas envolvidas, entregas esperadas, cronograma preliminar e recursos necessários para a execução bem-sucedida do projeto. 
-> O TAP funciona como um contrato inicial entre a equipe do projeto e as partes interessadas, estabelecendo as bases para uma compreensão compartilhada dos propósitos e limites do projeto. 
-> Ao delinear esses elementos de forma detalhada, o Termo de Abertura do Projeto (TAP) fornece uma direção sólida para orientar as atividades subsequentes, facilitando a gestão eficaz do projeto desde o início até o encerramento. 
-> Essa documentação garante a clareza, alinhamento e comprometimento de todos os envolvidos, contribuindo assim para o sucesso do projeto.
-
-> Você deve preencher o seguinte documento:
 > - [Termo de Abertura do Projeto](artefatos/termo-abertura-projeto.docx)
