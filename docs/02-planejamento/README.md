@@ -41,7 +41,7 @@
 > Essa abordagem estruturada contribui significativamente para o sucesso do projeto, garantindo uma compreensão abrangente do escopo e uma base sólida para a gestão eficaz do trabalho ao longo do ciclo de vida do projeto.
 
 > **Exemplo de EAP:**
-> ![EAP](pdfs/DefinicaoDeEscopo1503%20(3).pdf)
+> ![Exemplo de EAP](images/exemplo_wbs.png)
 
 > Softwares recomendados: 
 > * [WBS Schedule Pro (Demo)](https://www.criticaltools.com/)
