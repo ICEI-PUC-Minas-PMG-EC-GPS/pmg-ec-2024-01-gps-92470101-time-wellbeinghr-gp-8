@@ -41,7 +41,7 @@
 > Essa abordagem estruturada contribui significativamente para o sucesso do projeto, garantindo uma compreensão abrangente do escopo e uma base sólida para a gestão eficaz do trabalho ao longo do ciclo de vida do projeto.
 
 > **Exemplo de EAP:**
-> ![Exemplo de EAP](images/exemplo_wbs.png)
+> ![EAP WellbeingHR](images/grupo8_EAP.png)
 
 > Softwares recomendados: 
 > * [WBS Schedule Pro (Demo)](https://www.criticaltools.com/)
@@ -63,7 +63,7 @@
 > * **C**onsulted   -> Consultado (especialista consultado sobre a atividade ou parte dela)
 > * **I**nformed    -> Informado (pessoas interessadas no projeto que devem ser informadas sobre a execução).
 > 
-> Link de auxílio: https://www.forbes.com/advisor/business/raci-chart/
+> ![Matriz RACI WellbeingHR](images/grupo8_MatrizRACI.png)
 
 # Escopo do Projeto
 
