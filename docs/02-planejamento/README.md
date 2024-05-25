@@ -32,8 +32,6 @@
 
 # Estrutura Analítica do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
 > A Estrutura Analítica do Projeto (EAP) proporciona uma representação hierárquica atividades que compõem um projeto. 
 > Organizando o escopo do projeto em componentes gerenciáveis e compreensíveis, a EAP facilita a decomposição do trabalho em partes menores, tornando mais fácil o planejamento, a atribuição de responsabilidades e o monitoramento do progresso. 
 > Cada elemento na estrutura representa uma parcela específica do trabalho a ser realizado, proporcionando clareza sobre as inter-relações entre as diferentes partes do projeto. 
@@ -50,8 +48,6 @@
 
 # Matriz de Responsabilidades
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
 > A Matriz de Responsabilidades é uma ferramenta para definir e indicar as responsabilidades de cada membro da equipe em relação às atividades do projeto. 
 > Também conhecida como RACI (Responsável, Aprovador, Consultado e Informado), essa matriz atribui papéis específicos a cada envolvido, indicando quem é responsável pela execução de uma tarefa, quem deve aprovar, quem precisa ser consultado e quem deve ser mantido informado. 
 > Ao criar uma visão visual e estruturada das responsabilidades, a matriz RACI minimiza ambiguidades e conflitos de papel.
@@ -67,36 +63,58 @@
 
 # Escopo do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
+>Escopo do projeto/produto (etapas do ciclo de vida e objetivo de cada uma)
+>1. Desenvolvimento de uma plataforma de gestão de recursos humanos.
+>2. Funcionalidades desde o recrutamento e seleção até o desenvolvimento e avaliação de desempenho dos colaboradores.
+>3. Inclusão de um sistema de recrutamento e seleção com análise de currículos e agendamento de entrevistas.
+>4. Implementação de um módulo de gestão de competências para identificação e desenvolvimento de habilidades dos colaboradores.
+>5. Integração de um sistema de avaliação de desempenho com feedback contínuo.
+>6. Ferramentas para gerenciamento de benefícios, controle de ponto e folha de pagamento.
+>7. Consideração de integrações com sistemas de ERP e CRM para gestão eficiente e integrada de processos organizacionais.
+>8. Implementação de uma Inteligência Artificial para mensurar o bem-estar emocional da equipe, utilizando métricas extraídas pelo time de dados e questionários periódicos enviados aos colaboradores.
+>9. Centralização e otimização dos processos relacionados à gestão de pessoas.
+>
+>Limites do projeto (o que não será feito)
+>1. Integração com outros softwares ou mesmo softwares do cliente que não acordados no escopo do projeto.
+>2. Migração de dados de sistemas legados
+>3. Suporte 24/7 após a implantação
+>4. Desenvolvimento de documentação 
+>
+>Restrições (o que restringe/condiciona o projeto)
+>1. Orçamento limitado: o projeto será executado dentro de um orçamento definido e não haverá flexibilidade extrema de aumento de custos.
+>2. Prazo fixo: o desenvolvimento do sistema deve ser concluído dentro do prazo estabelecido, com possibilidade de prorrogação em caso de acordo entre as partes.
+>3. Conformidade Legal: O sistema deve ser desenvolvido seguindo todas as leis e regulamentação de privacidade de dados relevantes.
+>
+>Premissas (condições para iniciar o projeto)
+1. Greenlight do cliente: Aprovação dos stakeholders.
+2. Preparação para desenvolvimento: aquisição de máquinas, infraestrutura e recursos humanos para o início do desenvolvimento.
+3. Acesso aos dados necessários: A equipe de desenvolvimento terá acesso aos dados e informações necessárias.
 
-> O escopo do projeto define os limites, objetivos e entregáveis do projeto, estabelecendo clareza sobre o que será realizado e o que está excluído do escopo. 
-> O escopo assegura a alocação adequada de recursos, evita desvios dos objetivos do projeto e garante que as expectativas dos stakeholders sejam atendidas. 
-> A definição do escopo inclui documentação detalhada dos requisitos, restrições e premissas do projeto. 
-> Ao longo do ciclo de vida do projeto, a gestão do escopo também inclui o controle de mudanças, garantindo que qualquer ajuste seja avaliado quanto ao seu impacto e aprovado de maneira adequada. 
+> ![Escopo do projeto WellbeingHR](images/escopo_projeto.png)
 
 
 # Cronograma do Projeto
-
-......  COLOQUE AQUI O SEU TEXTO ......
 
 > O cronograma do projeto fornece uma representação temporal detalhada de todas as atividades, marcos e eventos ao longo do ciclo de vida do projeto. 
 > Elaborado durante o planejamento, o cronograma é uma ferramenta que oferece uma visão das interdependências entre as tarefas, alocando recursos e definindo prazos para as entregas.
 > Utilizando técnicas como a análise de rede (PERT/CPM) e estimativas de duração, o cronograma ajuda na identificação de caminhos críticos, permitindo aos gestores de projeto otimizar recursos, antecipar potenciais atrasos e tomar decisões. 
 > Além disso, o cronograma serve como um guia para monitorar o progresso, comunicar efetivamente com a equipe e as partes interessadas, e ajustar estratégias para garantir a conclusão bem-sucedida do projeto dentro dos prazos estabelecidos.
+>
+>Cronograma do projeto em formato pod:
+>![Cronograma do projeto WellbeingHR](images/cronogramaFull.png)
 
 # Orçamento do Projeto
-
-......  COLOQUE AQUI O SEU TEXTO ......
 
 > O orçamento do projeto envolve a estimativa e alocação de recursos financeiros necessários para a execução bem-sucedida do projeto, abrangendo custos diretos e indiretos, despesas operacionais, investimentos em equipamentos, pessoal, entre outros. 
 > O desenvolvimento do orçamento deve considerar variáveis como riscos, imprevistos e mudanças no escopo. 
 > Uma vez estabelecido, o orçamento serve como guia para a utilização eficiente dos recursos financeiros ao longo do projeto. 
 > A gestão do orçamento não apenas ajuda a controlar os custos, mas também fornece transparência e prestação de contas, permitindo que gestores tomem decisões informadas e evitem surpresas financeiras ao longo do ciclo de vida do projeto. 
 > Assim, o orçamento contribui para o sucesso do projeto, garantindo a viabilidade econômica e a entrega dentro das expectativas financeiras estabelecidas.
+>
+>![Orçamento do projeto WellbeingHR](images/orçamento.png)
+
 
 # Planos de Gerenciamento
-
-......  COLOQUE AQUI O SEU TEXTO ......
 
 > Os planos de gerenciamento do projetos consolidam as diretrizes e estratégias para a execução bem-sucedida de um empreendimento. 
 > Ele abrange diversos aspectos, como escopo, cronograma, custos, riscos, qualidade, recursos humanos, comunicação e aquisições, proporcionando uma visão abrangente e integrada do projeto. 
@@ -105,11 +123,11 @@
 
 ## Plano de Comunicação
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
 > O Plano de Comunicação estabelece estratégias e diretrizes para facilitar a troca de informações entre os membros da equipe e as partes interessadas. 
 > Este plano abrange aspectos como os meios de comunicação, a frequência das atualizações, os canais de distribuição de informações e os responsáveis pela comunicação. 
 > Uma comunicação eficiente não apenas previne mal-entendidos e conflitos, mas também fortalece o engajamento da equipe e o apoio das partes interessadas. 
+
+>![Plano de Comunicação do projeto WellbeingHR](images/planoDeComunicacao.png)
 
 ## Plano de Qualidade
 
@@ -120,27 +138,11 @@
 > Ao identificar metas de qualidade, responsabilidades da equipe, e métricas de avaliação, o Plano de Qualidade busca assegurar que o projeto atinja ou exceda as expectativas dos stakeholders em termos de desempenho e conformidade. 
 > A adoção de políticas de qualidade auxilia a mitigar riscos, promove a confiança nas entregas do projeto e, por fim, aumenta a probabilidade de sucesso do empreendimento. 
 
-> Referência - Conceitual
-> * https://www.researchgate.net/publication/230636169_Software_Quality_Assurance
-
-> Normas de Qualidade:
-> * https://repositorium.uminho.pt/bitstream/1822/27266/1/Tese_MEI_PG19676_Juliana%20Oliveira.pdf
-> * https://cin.ufpe.br/~processos/TAES3/Livro/00-LIVRO/07-Normas%20ISO%20e%20Qualidade%20de%20Software-v6_CORRIGIDO.pdf
-
-> Métricas de software:
-> * https://repositorio.unicamp.br/Busca/Download?codigoArquivo=489087
-> * https://lume.ufrgs.br/bitstream/handle/10183/66095/000870909.pdf?sequence=1
-> * https://www.computerweekly.com/br/tip/23-metricas-de-desenvolvimento-de-software-que-devem-ser-monitoradas
-
-> Processos de Garantia da Qualidade de Software
-> * https://ceur-ws.org/Vol-3200/paper22.pdf
-> * https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=d6bd60206282a2d4449e414e81a703612ef78a0c
-> * https://www.testbytes.net/blog/quality-assurance-process-methodology/
-> * https://www.projectmanager.com/blog/quality-assurance-and-testing
+>![Plano de Qualidade do projeto WellbeingHR](images/planoDeQualidade.png)
 
 ## Plano de Riscos
 
-......  COLOQUE AQUI O SEU TEXTO ......
+
 
 
 > O plano de riscos busca antecipar, avaliar e mitigar os desafios potenciais que podem surgir ao longo do projeto. 
@@ -152,14 +154,16 @@
 > Isso inclui a definição de ações preventivas para mitigar riscos antes que se materializem, bem como estratégias de mitigação para minimizar seu impacto se ocorrerem. 
 > Além disso, a identificação de pontos de monitoramento contínuo ao longo do projeto permite uma resposta ágil às mudanças nas condições do ambiente.
 
-## Plano de Aquisição
+>![Plano de Riscos do projeto WellbeingHR](images/planoDeRiscos.png)
 
-......  COLOQUE AQUI O SEU TEXTO ......
+## Plano de Aquisição
 
 > O Plano de Aquisições define o processo relacionado à aquisição de bens e serviços necessários para a execução do projeto. 
 > Este plano abrange a identificação de necessidades, a seleção de fornecedores, a elaboração de contratos, e a gestão do relacionamento com os fornecedores durante do ciclo de vida do projeto. 
 > O Plano de Aquisições visa garantir a aquisição eficiente e eficaz dos recursos necessários, minimizando riscos e custos. 
 > Além disso, ele proporciona transparência nas relações com fornecedores, promovendo a conformidade com os prazos estabelecidos e padrões de qualidade. 
+
+>![Plano de Aquisição do projeto WellbeingHR](images/planoDeAquisicao.png)
 
 ## Plano de Gestão de RH
 
@@ -178,35 +182,28 @@
 
 ## Aquisição de Produtos
 
-> Você deve preencher o seguinte documento:
-- [Declaração de Escopo](artefatos/aquisicao_produtos.docx)
+- [Declaração de Escopo](pdfs/DefinicaoDeEscopo.pdf)
 
 ## Checklist de Qualidade
 
-> Você deve preencher o seguinte documento:
-- [Checklist de Qualidade](artefatos/checklist_qualidade.docx)
+- [Checklist de Qualidade](pdfs/Plano%20de%20Qualidade.pdf)
 
 ## Escopo, Cronograma e Orçamento
 
-> Você deve preencher o seguinte documento:
-- [Cronograma e Orçamento do Projeto](artefatos/cronograma_orcamento.pod)
+- [Cronograma e Orçamento do Projeto](artefatos/projetoGRUPO8_tarefa8.pod)
 
 ## Estrutura Analítica do Projeto (EAP)
 
-> Você deve preencher o seguinte documento:
-- [Estrutura Analítica do Projeto](artefatos/estrutura_analitica_projeto.wbs)
+- [Estrutura Analítica do Projeto](pdfs/EAP.pdf)
 
 ## Matriz de Responsabilidades (RACI)
 
-> Você deve preencher o seguinte documento:
-- [Declaração de Escopo](artefatos/declaracao-escopo.docx)
+- [Declaração de Escopo](pdfs/Matriz%20RACI.pdf)
 
 ## Plano de Gerenciamento de Comunicação
 
-> Você deve preencher o seguinte documento:
-- [Plano de Gerenciamento de Comunicação](artefatos/plano_comunicacao.docx)
+- [Plano de Gerenciamento de Comunicação](pdfs/Plano%20de%20Comunicacao.pdf)
 
 ## Plano de Gerenciamento de Riscos
 
-> Você deve preencher o seguinte documento:
-- [Plano de Gerenciamento de Riscos](artefatos/plano_riscos.docx)
+- [Plano de Gerenciamento de Riscos](pdfs/Lista%20de%20Riscos.pdf)
