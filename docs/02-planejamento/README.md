@@ -131,8 +131,6 @@
 
 ## Plano de Qualidade
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
 > O Plano de Qualidade auxilia a garantir que as entregas do projeto atendam aos padrões de qualidade definidos. 
 > Este plano abrange atividades como definição de padrões, procedimentos de garantia de qualidade, critérios de aceitação e processos de monitoramento e controle da qualidade ao longo do ciclo de vida do projeto. 
 > Ao identificar metas de qualidade, responsabilidades da equipe, e métricas de avaliação, o Plano de Qualidade busca assegurar que o projeto atinja ou exceda as expectativas dos stakeholders em termos de desempenho e conformidade. 
@@ -141,9 +139,6 @@
 >![Plano de Qualidade do projeto WellbeingHR](images/planoDeQualidade.png)
 
 ## Plano de Riscos
-
-
-
 
 > O plano de riscos busca antecipar, avaliar e mitigar os desafios potenciais que podem surgir ao longo do projeto. 
 > Este documento estratégico oferece uma visão global dos riscos, categorizando-os e delineando estratégias para lidar com cada uma das possíveis adversidades. 

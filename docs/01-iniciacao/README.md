@@ -33,12 +33,12 @@
 
 ## Problema
 
-Desenvolver uma plataforma de gestão de recursos humanos que ofereça soluções integradas para empresas de médio e grande porte. Esta plataforma visa otimizar e centralizar processos relacionados à gestão de pessoas, desde o recrutamento e seleção até o desenvolvimento e avaliação de desempenho dos colaboradores. Além disso, nossa plataforma contará com uma gestão automatizada do moral e do bem-estar da equipe de colaboradores. Para alcançar esse objetivo, a plataforma incluirá funcionalidades como um sistema de recrutamento e seleção com análise de currículos e agendamento de entrevistas, um módulo de gestão de competências para identificação e desenvolvimento de habilidades dos colaboradores, um sistema de avaliação de desempenho com feedback contínuo, além de ferramentas para gerenciamento de benefícios, controle de ponto e folha de pagamento. Integrações com sistemas de ERP e CRM também serão consideradas para garantir uma gestão eficiente e integrada de todos os processos organizacionais relacionados aos recursos humanos. Já na parte de gestão do bem-estar e moral da equipe, o sistema contará com uma Inteligência Artificial integrada, que irá, por meio de métricas extraídas pelo time de dados e questionários enviados periodicamente aos colaboradores, mensurar o bem-estar emocional da equipe.
+>Desenvolver uma plataforma de gestão de recursos humanos que ofereça soluções integradas para empresas de médio e grande porte. Esta plataforma visa otimizar e centralizar processos relacionados à gestão de pessoas, desde o recrutamento e seleção até o desenvolvimento e avaliação de desempenho dos colaboradores. Além disso, nossa plataforma contará com uma gestão automatizada do moral e do bem-estar da equipe de colaboradores. Para alcançar esse objetivo, a plataforma incluirá funcionalidades como um sistema de recrutamento e seleção com análise de currículos e agendamento de entrevistas, um módulo de gestão de competências para identificação e desenvolvimento de habilidades dos colaboradores, um sistema de avaliação de desempenho com feedback contínuo, além de ferramentas para gerenciamento de benefícios, controle de ponto e folha de pagamento. Integrações com sistemas de ERP e CRM também serão consideradas para garantir uma gestão eficiente e integrada de todos os processos organizacionais relacionados aos recursos humanos. Já na parte de gestão do bem-estar e moral da equipe, o sistema contará com uma Inteligência Artificial integrada, que irá, por meio de métricas extraídas pelo time de dados e questionários enviados periodicamente aos colaboradores, mensurar o bem-estar emocional da equipe.
 
 
 ## Objetivos
 
-Desenvolvimento de uma plataforma de gestão de recursos humanos.
+>Desenvolvimento de uma plataforma de gestão de recursos humanos.
 Funcionalidades desde o recrutamento e seleção até o desenvolvimento e avaliação de desempenho dos colaboradores.
 Inclusão de um sistema de recrutamento e seleção com análise de currículos e agendamento de entrevistas.
 Implementação de um módulo de gestão de competências para identificação e desenvolvimento de habilidades dos colaboradores.
@@ -51,18 +51,62 @@ Centralização e otimização dos processos relacionados à gestão de pessoas.
  
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para
-realizar as especificações do projeto.
+>Visão Geral
+>O projeto WellBeingHR visa desenvolver uma plataforma de gestão de recursos humanos focada na melhoria da qualidade do ambiente de trabalho e na saúde mental dos funcionários. A plataforma incluirá funcionalidades para recrutamento, avaliação de desempenho, gerenciamento de benefícios e integração com sistemas ERP e CRM.
+>
+>Técnicas e Ferramentas Utilizadas
+  >*Análise de Requisitos: Serão realizadas reuniões com stakeholders para coletar e documentar os requisitos funcionais e não funcionais, garantindo que todas as expectativas sejam compreendidas e registradas.
+  >
+  >*Desenvolvimento Ágil: Utilização da metodologia Scrum para gerenciar o desenvolvimento do projeto, com sprints quinzenais para promover entregas contínuas e melhorias incrementais.
+  >
+  >*Modelagem de Processos: Ferramentas como BPMN (Business Process Model and Notation) serão usadas para mapear e otimizar os processos de negócios relacionados à gestão de recursos humanos.
+  >
+  >*Desenvolvimento de Software: Linguagens de programação como JavaScript e frameworks como React e Node.js serão usados para o desenvolvimento da interface e backend da plataforma.
+  >
+  >*Integração de Sistemas: API REST será implementada para permitir a comunicação e integração entre diferentes sistemas, como ERP e CRM.
+  >
+  >*Gestão de Riscos: Identificação e mitigação de riscos conforme detalhado na Lista de Riscos, utilizando técnicas de prevenção e planos de contingência.
+  >
+  >*Gestão de Configuração: Utilização do Project Libre para controle de versões, documentação e auditorias regulares.
+  >
+  >*Teste e Qualidade: Metodologias de teste, como testes unitários, de integração e aceitação, serão aplicadas para assegurar a qualidade e a conformidade do software com os requisitos estabelecidos.
+  >
+  >*Treinamento de Usuários: Sessões de treinamento serão conduzidas para garantir que os usuários finais possam utilizar a plataforma de maneira eficaz.
+  >
+  >*Documentação: Produção de documentação abrangente, incluindo manuais de usuário, guias de instalação e relatórios de progresso, conforme necessário.
 
 ## Critérios de Sucesso
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Os critérios de sucesso de um projeto fornecem uma estrutura clara para avaliar o êxito do trabalho e analisar se o projeto realmente alcançou os objetivos estabelecidos. 
-> Esses critérios geralmente abrangem diversas dimensões, incluindo a entrega dentro do prazo e orçamento estipulados, a satisfação do cliente, a qualidade do produto ou serviço final, e a eficiência na utilização de recursos. 
-> Além disso, a capacidade de atender aos requisitos e expectativas das partes interessadas, bem como a gestão eficaz de riscos, são considerados aspectos importantes para determinar o sucesso de um projeto. 
+>Os critérios de sucesso fornecem uma estrutura clara para avaliar o êxito do projeto WellBeingHR, garantindo que todos os objetivos estabelecidos sejam alcançados. Esses critérios incluem várias dimensões, desde a entrega dentro do prazo e orçamento até a satisfação do cliente e a qualidade do produto final.
+>
+>Dimensões dos Critérios de Sucesso
+Entrega no Prazo e Orçamento:
+>
+>*Conclusão do projeto dentro do prazo estipulado de 1240 horas, conforme detalhado no cronograma.
+Manutenção dos custos dentro do orçamento aprovado de R$ 170.400,00, conforme especificado no Termo de Abertura do Projeto.
+Satisfação do Cliente:
+>
+>*Receber feedback positivo do cliente, Crossover for Work, indicando que a plataforma atende ou supera as expectativas.
+Realizar pesquisas de satisfação com os usuários finais após a implantação do sistema.
+Qualidade do Produto:
+>
+>*Atingir os requisitos de qualidade definidos, incluindo confiabilidade, usabilidade e escalabilidade da plataforma.
+Realizar testes rigorosos e garantir que o sistema esteja livre de falhas críticas no momento da entrega.
+Eficiência na Utilização de Recursos:
+>
+>*Otimização do uso de recursos humanos e tecnológicos, assegurando que as equipes estejam bem treinadas e os equipamentos sejam utilizados de maneira eficiente.
+Atendimento aos Requisitos e Expectativas das Partes Interessadas:
+>
+>*Completa aderência aos requisitos funcionais e não funcionais coletados durante a fase de análise.
+Manter uma comunicação constante e eficaz com todas as partes interessadas, conforme detalhado no Plano de Comunicação.
+Gestão Eficaz de Riscos:
+>
+>*Implementação de todas as medidas de prevenção e contingência listadas na Lista de Riscos.
+Monitoramento contínuo dos riscos e ajustes nos planos conforme necessário para mitigar impactos.
+Melhoria Contínua e Feedback:
+>
+>*Incorporar feedback contínuo durante o desenvolvimento e pós-implantação para melhorias futuras.
+Realizar revisões pós-projeto para identificar lições aprendidas e áreas de melhoria.
  
 ## Histórias de Usuários
 
@@ -147,14 +191,15 @@ A tabela a seguir apresenta as restrições do projeto.
 |RE-002| Emitir um relatório de tarefas no mês   | MÉDIA |
 
 # Partes Interessadas
-Nome	           | Papel no projeto                             |
-Edgard De Paiva	 | Gerente do Projeto	                          |
-Rafael Leal	     | Analista de Processos	                      |
-Felipe Viana	   | Analista de RH	                              |
-Pedro Souza	     | Data Base Administrator                      |
-Julia Guerra	   | Diretor geral de Recursos Humanos            |
-Thiago Paz	     | CEO	Thiago Paz                              |
-Luiz Silva	     | Representante do sindicato dos trabalhadores |
+|Nome	           | Papel no projeto                             |
+|----------------|----------------------------------------------|
+|Edgard De Paiva | Gerente do Projeto	                          |
+|Rafael Leal	   | Analista de Processos	                      |
+|Felipe Viana	   | Analista de RH	                              |
+|Pedro Souza	   | Data Base Administrator                      |
+|Julia Guerra	   | Diretor geral de Recursos Humanos            |
+|Thiago Paz	     | CEO	Thiago Paz                              |
+|Luiz Silva	     | Representante do sindicato dos trabalhadores |
 
 
 
@@ -162,13 +207,14 @@ Luiz Silva	     | Representante do sindicato dos trabalhadores |
 
 ## Estimativa de Custo
 
-Item de custo	                            | Qtd. horas |	 Valor/hora	 |   Valor total  |
-Recursos Humanos (5 pessoas)	            |    800	   |    R$175,00	 |  R$140.000,00  |
-Hardware (2 pessoas)                      |	   80	     |    R$60 ,00	 |   R$4.800,00   |
-Rede e serviços de hospedagem (2 pessoas) |    120	   |     R$60,00	 |   R$7.200,00   |
-Software de terceiros (2 pessoas)         |    160	   |    R$70,00	   |  R$11.200,00   |
-Serviços e treinamento (3 pessoas)        |	   80	     |    R$90,00	   |  R$7.200,00    |
-Total Geral                               |    1240	   |   R$455,00	   |  R$170.400,00  |
+|Item de custo	                            | Qtd. horas |	 Valor/hora	 |   Valor total  |
+|-------------------------------------------|------------|---------------|----------------|
+|Recursos Humanos (5 pessoas)	              |    800	   |    R$175,00	 |  R$140.000,00  |
+|Hardware (2 pessoas)                       |	   80	     |    R$60 ,00	 |   R$4.800,00   |
+|Rede e serviços de hospedagem (2 pessoas)  |    120	   |     R$60,00	 |   R$7.200,00   |
+|Software de terceiros (2 pessoas)          |    160	   |    R$70,00	   |  R$11.200,00   |
+|Serviços e treinamento (3 pessoas)         |	   80	     |    R$90,00	   |  R$7.200,00    |
+|Total Geral                                |    1240	   |   R$455,00	   |  R$170.400,00  |
 
 
 
@@ -233,14 +279,30 @@ Total Geral                               |    1240	   |   R$455,00	   |  R$170.
 > Esta seção deve ser utilizada para armazenamento e listagem dos documentos e artefatos produzidos durante as aulas.
 > Atualize os documentos nos respectivos links.
 
-## Declaração de Escopo
+## Aquisição de Produtos
 
-- [Declaração de Escopo](artefatos/declaracao-escopo.docx)
+- [Declaração de Escopo](artefatos/DefinicaoDeEscopo1503%20(3).pdf)
 
-## Registro de Partes Interessadas
+## Checklist de Qualidade
 
-- [Registro de Partes Interessadas](artefatos/registro-partes-interessadas.xlsx)
+- [Checklist de Qualidade](artefatos/Plano%20de%20Qualidade.pdf)
 
-## Termo de Abertura do Projeto (TAP)
+## Escopo, Cronograma e Orçamento
 
-> - [Termo de Abertura do Projeto](artefatos/termo-abertura-projeto.docx)
+- [Cronograma e Orçamento do Projeto](artefatos/cronogramaFull.png)
+
+## Estrutura Analítica do Projeto (EAP)
+
+- [Estrutura Analítica do Projeto](artefatos/EAP.pdf)
+
+## Matriz de Responsabilidades (RACI)
+
+- [Declaração de Escopo](artefatos/Matriz%20RACI%201.pdf)
+
+## Plano de Gerenciamento de Comunicação
+
+- [Plano de Gerenciamento de Comunicação](artefatos/Template%20Plano%20de%20Comunicacao.pdf)
+
+## Plano de Gerenciamento de Riscos
+
+- [Plano de Gerenciamento de Riscos](artefatos/Lista%20de%20Riscos.pdf)
