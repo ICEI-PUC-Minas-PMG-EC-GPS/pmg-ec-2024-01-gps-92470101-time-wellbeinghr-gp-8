@@ -52,15 +52,15 @@
 
 **Insight - Mês Março**
 
-![Insight - Mês Fevereiro](images/insight_marco2.png)
+>![Insight - Mês Fevereiro](images/insight_marco2.png)
 
 **Insight - Mês Abril**
 
-![Insight - Mês Março](images/insight_abril.jpg)
+>![Insight - Mês Março](images/insight_abril.jpg)
 
 **Insight - Mês Maio**
 
-![Insight - Mês Março](images/insight26-05.png)
+>![Insight - Mês Março](images/insight26-05.png)
 
 **Insight - Mês Junho**
 
