@@ -86,7 +86,7 @@
 > Explique de forma concisa o diagrama, para que seja possível entender a solução proposta.
 >
 > **Exemplo de diagrama de Classes**:
-> ![Exemplo de diagrama de Classes](images/class-diagram.png)
+> ![Exemplo de diagrama de Classes](images/Diagrama.png)
 
 
 ## Persistência dos Dados
