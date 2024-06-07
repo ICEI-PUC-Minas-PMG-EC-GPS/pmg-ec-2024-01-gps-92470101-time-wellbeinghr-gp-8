@@ -25,22 +25,11 @@
 
 
 # Interfaces do Sistema
-
-......  INCLUA AQUI O DIAGRAMA COM O FLUXO DO USUÁRIO NA APLICAÇÃO ......
-
-> Os protótipos navegáveis oferecem uma representação interativa das interfaces e funcionalidades do sistema antes da implementação final. 
-> Esses protótipos permitem que os usuários experimentem a navegação real entre telas e interajam com elementos de interface, proporcionando uma visão prática do design proposto. 
-> Ao criar protótipos navegáveis, os desenvolvedores podem validar conceitos, testar a usabilidade e obter feedback de stakeholders e usuários finais. 
-> Essa abordagem contribui para a detecção precoce de possíveis problemas de usabilidade, refinando o design e economizando tempo e recursos durante o ciclo de desenvolvimento. 
->
-> **Links Úteis**:
-> - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
-> - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
-> - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
->
-> **Exemplo**:
+> **WellbeingHR user flow**:
 > 
-> ![Exemplo de UserFlow](images/userflow_2.jpg)
+> ![WellbeingHR flow](images/userflow_2.jpg)
+
+<!-- colocando markdown para retirar enquanto povo faz esse item
 
 # Modelagem da Solução
 
@@ -53,6 +42,9 @@
 > Essa abordagem facilita a identificação precoce de requisitos e a detecção de inconsistências. 
 > Além disso, a modelagem contribui para a documentação eficaz, permitindo uma compreensão mais abrangente do software antes mesmo de sua implementação. 
 
+-->
+
+<!-- colocando markdown para retirar enquanto povo faz esse item
 
 ## Arquitetura da solução
 
@@ -72,22 +64,13 @@
 > **[Exemplo Arquitetura eShopOnContainers](https://learn.microsoft.com/pt-br/dotnet/architecture/microservices/multi-container-microservice-net-applications/microservice-application-design)**
 > ![Arquitetura eShopOnContainers](images/eshoponcontainers-architecture.png)
 
+-->
 
 ## Diagrama de Classes
+> **WellbeingHR diagrama de classes**:
+> ![WellbeingHR diagrama de classes](images/Diagrama.png)
 
-......  COLOQUE AQUI O SEU TEXTO E O DIAGRAMA DE CLASSES .......
-
-> O diagrama de classes fornece uma representação visual das estruturas e relações entre as classes em um sistema orientado a objetos. 
-> O diagrama serve como uma documentação visual eficaz, facilitando a compreensão, manutenção e contínua do software.
->
-> **Diagrama de Classes:**
-> Desenvolva um diagrama de classes para o sistema proposto.
-> Caso a solução fique muito grande, divida o diagrama por módulos ou serviços.
-> Explique de forma concisa o diagrama, para que seja possível entender a solução proposta.
->
-> **Exemplo de diagrama de Classes**:
-> ![Exemplo de diagrama de Classes](images/Diagrama.png)
-
+<!-- colocando markdown para retirar enquanto povo faz esse item
 
 ## Persistência dos Dados
 
@@ -110,4 +93,4 @@
 > **Exemplo de diagrama de Banco de Dados**:
 > ![Exemplo de diagrama de Banco de Dados](images/database-diagram.png)
 
-
+-->
